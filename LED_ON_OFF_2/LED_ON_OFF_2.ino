@@ -79,7 +79,7 @@ Output :
 // task-1 Blink LED
 
 // 2. 2-LED ON-OFF.
-// task-2 
+// task-2
       // at a first Time 1LED ON 1LED OFF
       // at a second Time 1LED OFF 1LED ON
 
